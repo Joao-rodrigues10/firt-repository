@@ -1,2 +1,4 @@
 print("hello word")
 print("bye word")
+print("hello word")
+print("bye word")
